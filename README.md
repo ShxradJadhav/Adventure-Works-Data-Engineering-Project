@@ -7,7 +7,7 @@
 
 ---
 
-# GitHub README Template: AdventureWorks Azure Data Engineering Project
+# End-to-End : AdventureWorks Azure Data Engineering Project
 
 ## 📌 Project Overview
 
