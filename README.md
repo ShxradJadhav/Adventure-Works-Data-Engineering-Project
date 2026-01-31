@@ -55,4 +55,3 @@ I built a fully automated pipeline consisting of:
 
 ---
 
-**Would you like me to help you write a specific "Professional Summary" for your LinkedIn profile based on this project?**
