@@ -4,9 +4,6 @@
 
 
 
-This is an impressive end-to-end project. To make your GitHub README stand out to HR and Technical Leads, you need to move away from "I clicked this button" and move toward "**I architected this solution.**"
-
-Here is a structured template for your GitHub README, followed by a "Cheat Sheet" for your interview.
 
 ---
 
