@@ -67,6 +67,7 @@ This project implements a **Medallion Architecture** (Bronze, Silver, Gold) to t
 
 ## 🏗 Architecture Diagram
 
+![Project Architecture](https://github.com/user-attachments/assets/4e7a265a-01b0-46e6-88c2-f9a7a69fedee)
 
 The data flow follows these stages:
 1. **Ingestion (Bronze):** Raw CSV files are moved from source to ADLS Gen2 via **Azure Data Factory**.
