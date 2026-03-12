@@ -1,6 +1,3 @@
-
----
-
 # 🚀 AdventureWorks: End-to-End Azure Data Engineering Project
 [![Azure](https://img.shields.io/badge/Provider-Azure-0072C6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![Databricks](https://img.shields.io/badge/Processing-Databricks-E25A1C?style=flat-square&logo=databricks)](https://www.databricks.com/)
